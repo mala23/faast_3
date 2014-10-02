@@ -74,6 +74,9 @@ It interacts with:
 ##Coach
 It should:
 - Be able to hold up to 40 passengers
+- Be able to board passengers
+- Be able to alight passengers
+- Be able to reject passengers when it's full
 
 It interacts with:
 - Train
