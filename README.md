@@ -53,9 +53,10 @@ Bonus:
 It should:
 - Be able to hold trains
 - Be able to hold passengers
-Bonus:
-- Be able to touch in a passenger
-- Be able to touch out a passenger
+- Be able to accept a passenger
+- Be able to release a passenger
+- Be able to dock a train
+- Be able to 
 
 It interacts with:
 - Train
