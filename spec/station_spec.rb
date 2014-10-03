@@ -23,7 +23,7 @@ describe Station do
 	end
 
 	it "should be able to hold trains" do
-		expect(station.trains.count).to eq([])
+		expect(station.trains).to eq([])
 	end
 
 	it "should be able to let trains arrive" do

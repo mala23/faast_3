@@ -55,8 +55,8 @@ It should:
 - Be able to hold passengers
 - Be able to accept a passenger
 - Be able to release a passenger
-- Be able to dock a train
-- Be able to 
+- Be able to let a train arrive
+- Be able to let a train depart
 
 It interacts with:
 - Train
