@@ -8,6 +8,7 @@ class Coach
 	end
 
 	def board(passenger)
+		raise "I'm full buddy" if full?
 		@passengers << passenger
 	end
 

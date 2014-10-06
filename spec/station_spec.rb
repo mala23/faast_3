@@ -34,6 +34,7 @@ describe Station do
 	it "should be able to let trains depart" do
 		allow(station).to receive(:let_depart).with(train).and_return(train)
 		station.let_depart(train)
+		expect(station.trains).not_to include(train)
 	end
 
 end
